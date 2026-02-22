@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khalid</h1>
-<h3 align="center">A passionate programmer from Pakistan, I've dabbled in many different technical fields of Computer Science such as Machine Learning, Data Science, Cybersecurity, Web Development and more. I'm always eager to learn more and to expand my skilset.</h3>
+<h3 align="center">A Computer Science major</h3>
 
 - 🔭 I’m currently working on [WildFire Monitoring System](https://github.com/Amd-Khalid/FYP---Wildfire-Management-System)
 
