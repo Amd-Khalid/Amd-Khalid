@@ -35,15 +35,15 @@ End-to-end analysis of real-world datasets using **pandas and NumPy**. Developed
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Kotlin, C/C++, JavaScript, SQL, Verilog |
-| **Frontend** | [cite_start]React, Jetpack Compose, Tailwind CSS, Material UI  |
-| **Backend/DB** | [cite_start]Django, Flask, Node.js, Room DB, Firebase |
+| **Languages** | Python, Kotlin, C/C++, JavaScript, SQL, Verilog |
+| **Frontend** | React, Jetpack Compose, Tailwind CSS, Material UI  |
+| **Backend/DB** | Django, Flask, Node.js, Room DB, Firebase |
 | **ML/Tools** | pandas, scikit-learn, TensorFlow, Git, Docker, GCP  |
 
 ---
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [ahmedkhalid123](https://linkedin.com/in/ahmedkhalid123) [cite: 2]
-* **GitHub:** [Amd-Khalid](https://github.com/Amd-Khalid) [cite: 2]
-* **Email:** [ahmedkhalid12009@gmail.com](mailto:ahmedkhalid12009@gmail.com) [cite: 2]
+* **LinkedIn:** [ahmedkhalid123](https://linkedin.com/in/ahmedkhalid123)
+* **GitHub:** [Amd-Khalid](https://github.com/Amd-Khalid)
+* **Email:** [ahmedkhalid12009@gmail.com](mailto:ahmedkhalid12009@gmail.com)
